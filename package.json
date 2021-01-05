@@ -10,7 +10,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "css-loader": "^0.26.4",
     "element-ui": "^1.2.4",
     "less": "^2.7.2",
